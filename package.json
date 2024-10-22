@@ -1,4 +1,5 @@
 {
+    "type": "module",
     "dependencies": {
         "@gabsthecuriouskid/javascript-plus": "1.0.0"
     }
